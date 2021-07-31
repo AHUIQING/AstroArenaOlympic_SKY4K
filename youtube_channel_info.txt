@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | AstroArenaOlympic_SKY4K |  |
-https://www.youtube.com/channel/UCU9GQSAhb4JxdSZKNJ_Ib6w/live
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/channel/UCU9GQSAhb4JxdSZKNJ_Ib6w/live
